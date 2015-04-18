@@ -44,5 +44,3 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'rake', '~> 10.4.2'
-
-gem 'puma'
