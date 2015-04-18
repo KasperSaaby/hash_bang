@@ -51,6 +51,6 @@ bower.json
 !.elasticbeanstalk/*.global.yml
 
 # Testing
-#.idea/workspace.xml
+.idea/*
 rootkey.csv.txt
 *.pdf
