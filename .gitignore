@@ -53,3 +53,4 @@ bower.json
 # Testing
 .idea/workspace.xml
 rootkey.csv.txt
+*.pdf
