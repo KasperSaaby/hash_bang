@@ -52,5 +52,6 @@ bower.json
 
 # Testing
 .idea/*
+.ebextensions/*
 rootkey.csv.txt
 *.pdf
